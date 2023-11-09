@@ -1,10 +1,108 @@
 # Bulus-Tanis-App
 
-* İnsalarlarla gerçek zamanlı sohbet edebileceğiniz ve konuma göre filtre uygulayarak belirli bir bölgedeki kullanıcılarla iletişime geçmenizi sağlayacak bir mesajlaşma uygulaması.
+****
+- [EN : Description :book: :leftwards_arrow_with_hook:](#en)  
+- [TR : Açıklama :book: :leftwards_arrow_with_hook:](#tr)
+****
+
+#### [EN]
+
+### 3rd Grade Spring Term Software Engineering Course Project Assignment
+
+#### [Click to Use the Program](http://program-link-ornek.com)
+
+* A messaging application where you can chat with people in real time and allow you to contact users in a certain region by filtering by location.
+
+1. ### Project Purpose and Objectives:
+    
+     The aim of this project is to develop a web-based application that provides a fast, secure and convenient messaging experience between users. The goals of the project are:
+    
+     * \* Creating a messaging system that provides real-time communication.
+     * \* Designing an interface where users can easily send and receive messages.
+     * \* To provide data transmission and user authentication mechanisms that include security measures.
+     * \* To ensure high performance, scalable and stable operation of the application.
+      
+2. ### Adopted Software Development Methodology:
+    
+     The Scrum model, one of the Agile methodologies, will be used in the project. Scrum is a model that allows managing the project development process in a more flexible and iterative way. The Scrum model divides the project into small parts, that is, sprints, and allows work to be done on predetermined tasks in each sprint. The basic features of the Scrum model are: Product owner: The person designated as the product owner in the project determines the user requirements and directs the development process by determining the priority order of the sprints. Scrum Master: The person who manages the Scrum practices of the project and ensures that the team runs smoothly. Their duties include removing obstacles, supporting the team and optimizing the process. Development Team: Team members responsible for the realization of the project. Roles such as Back-End and Front-End developers and database specialists may be included in this team. In the Scrum model, project development is carried out iteratively. Each sprint covers a period of time, usually ranging from 1 to 2 weeks. Sprint planning meetings are held before each sprint and the team is expected to achieve the goals throughout the sprint. At the end of the sprint, the work accomplished is reviewed and the feedback of user/team members is taken into account. Within the scope of this project, sprints will be created using the Scrum model, tasks will be determined and the process will be reviewed regularly. In this way, project progress will be monitored, flexibility and customer focus will be provided, and the development process will be easier to optimize.
+    
+3. ### Open Letter to Support Our Project and Work with Us:
+    
+     As a software developer working on a messaging project, I would like to offer you a good opportunity. In this project, we aim to develop a web-based platform with mutual messaging feature by adopting an approach based on Agile methodologies such as Scrum. We need software developers who want to contribute to this project and join our team. If you are interested or think you have experience in this field, please do not hesitate to send us a message. Project stages will be carried out with an iterative approach and work will be divided in regular sprints. During each sprint, predefined work will be worked on based on customer feedback and the rapid progress of the project will be ensured. If you would like to take part in this project and get more information, please do not hesitate to contact us. We look forward to working with you on this exciting project!
+    
+4. ### Team Members and Competencies:
+    
+     * Ahmet Bahadır Aksakal - Full Stack Developer - Git System Management Expert
+     * Onur Metehan Yılmaz - Full Stack Developer - Cyber Security Expert
+     * Ömer Faruk Kocaefe - Full Stack Developer - Cyber Security Expert
+     * Veysi Beyaz - Full Stack Developer - User Experience Specialist
+      
+5. ### Task Distribution and Working Strategy of Team Members::
+    
+     All of our team members are familiar with the technologies required for the project, so the distribution of tasks is business-oriented. For example, when a specific menu or feature is requested, the relevant engineer completes the Back-End work, Front-End work and Database work required to carry out the relevant work. In this way, speed and flexibility are gained in application development. The completed work is uploaded to the relevant repo and all repos are finally merged by the Git System Management Specialist.
+    
+     What the project developers have done, what work they have received and completed are tracked through the Git system.
+    
+6. ### Technology and Languages Used in the Project:
+    
+     * Vue.js 3
+     * Node.js (version:16.15.0)
+     * Vue cli
+     * HTML
+     *CSS
+     *JavaScript
+
+7. ### Project Stand Up Steps:
+    
+     * We need the **npm** package manager. Install the npm package manager from the Node.js website.
+     * Open the command terminal under the Bulus-Tanis-BackEnd folder and start
+     * Run npm install command.
+     * run npm run serve command
+     * BackEnd will run at localhost:3000 by default.
+     * BackEnd - To connect to the Database (MongoDb), enter your own database connection address into the connectionString in the app.config.js file.
+     * Open the command terminal under the Bulus-Tanis-FrontEnd folder and start
+     * Run npm install command.
+     * run npm run serve command
+     * FrontEnd will run at localhost:8080 by default.
+     * To access the BackEnd, make sure that the BASE\_URL address under the config.backend.js file is the same as the address where the Back-End runs. By default it will run at localhost:3000.
+     
+8. ### Features of Our Application:
+    
+     * User Registration
+     * User Login
+     * Real Time Messaging
+     * Delete Conversation
+     * User Exit
+
+9. ### Contributors:
+    
+     * Ömer Faruk Kocaefe
+     * Metehan Yilmaz
+     * Veysi Beyaz
+     * Ahmet Bahadır Aksakal
+      
+10. ### Project Promotion Video:
+    
+     * <video src='https://github.com/Bulus-Tanis-App-Team/Bulus-Tanis-App/assets/72493865/1a0bdbab-466d-4234-b9fa-fc12f18a9b45' width=180/>
+    
+11. ### Images from the Program:
+    
+     * ![](/img/1.png) Messaging
+     * ![](/img/2.png) Location Search
+     * ![](/img/3.png) Adding Friends by Location
+     * ![](/img/4.png) Profile Page and Information Update
+
+
+****
+****
+
+#### [TR]
 
 ### 3. Sınıf Bahar Dönemi Yazılım Mühendisliği Dersi Proje Ödevi
 
 #### [Programı Kullanmak İçin Tıklayınız](http://program-link-ornek.com)
+
+* İnsalarlarla gerçek zamanlı sohbet edebileceğiniz ve konuma göre filtre uygulayarak belirli bir bölgedeki kullanıcılarla iletişime geçmenizi sağlayacak bir mesajlaşma uygulaması.
 
 1.  ### Proje Amacı ve Hedefleri:
     
