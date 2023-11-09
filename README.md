@@ -7,7 +7,7 @@
 
 #### [EN]
 
-### 3rd Grade Spring Term Software Engineering Course Project Assignment
+### 3rd Grade Spring Semester Software Engineering Course Project Assignment
 
 #### [Click to Use the Program](http://program-link-ornek.com)
 
