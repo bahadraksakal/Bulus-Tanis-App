@@ -1,6 +1,8 @@
-\# Bulus-Tanis-App İnsalarlarla gerçek zamanlı sohbet edebileceğiniz ve konuma göre filtre uygulayarak belirli bir bölgedeki kullanıcılarla iletişime geçmenizi sağlayacak bir mesajlaşma uygulaması.
+# Bulus-Tanis-App
 
-### 3\. Sınıf Bahar Dönemi Yazılım Mühendisliği Dersi Proje Ödevi
+* İnsalarlarla gerçek zamanlı sohbet edebileceğiniz ve konuma göre filtre uygulayarak belirli bir bölgedeki kullanıcılarla iletişime geçmenizi sağlayacak bir mesajlaşma uygulaması.
+
+### 3. Sınıf Bahar Dönemi Yazılım Mühendisliği Dersi Proje Ödevi
 
 #### [Programı Kullanmak İçin Tıklayınız](http://program-link-ornek.com)
 
@@ -71,11 +73,11 @@
     *   Veysi Beyaz
     *   Ahmet Bahadır Aksakal
       
-10.  ### Proje Tanıtım Videosu:
+10. ### Proje Tanıtım Videosu:
     
-    *   
+    * <video src='https://github.com/Bulus-Tanis-App-Team/Bulus-Tanis-App/assets/72493865/1a0bdbab-466d-4234-b9fa-fc12f18a9b45' width=180/>
     
-11.  ### Programdan Görseller:
+11. ### Programdan Görseller:
     
     *   ![](/img/1.png) Mesajlaşma
     *   ![](/img/2.png) Konum Arama
